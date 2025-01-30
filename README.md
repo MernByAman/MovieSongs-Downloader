@@ -5,8 +5,6 @@
 
 **A sleek and responsive HTML/CSS card for showcasing and downloading movie soundtracks.**  
 
-![Preview](https://via.placeholder.com/300x200) *(Replace with your actual preview image link)*  
-
 ## 🌟 Features  
 - **Modern Design**: Clean, minimalist layout with smooth shadows and rounded corners.  
 - **Responsive**: Works seamlessly on mobile, tablet, and desktop screens.  
